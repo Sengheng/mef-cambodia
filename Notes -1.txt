@@ -1,0 +1,17 @@
+POJO - Plain Old Java Object   -> Bean class / entity class
+POJI -> Plain Old java interface
+
+
+Methods
+
+class Test
+{
+
+void talk() 
+{
+
+
+
+}
+
+}
