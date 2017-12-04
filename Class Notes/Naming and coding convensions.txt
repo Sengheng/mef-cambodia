@@ -1,0 +1,50 @@
+Naming and coding convensions:
+----------------------------------
+1. class: All class names should be start with upper case letter. If there are more than one word in the class name, then each word firdt letter should be capitalized
+Ex: Employee, Bank, InputStream, DataInputStream
+
+2. variables/methods/objects:  All should start with lower case letter, and if there are more than one words, then each word first letter should be capitalized.
+Ex: variables: age, maxAge, studentFirstTrack
+    methods: display(), processSalary(), readInputDataStream()
+    objects: emp, bank, empData, dataInputStream;
+
+3. Const : All const names in java should be defined in upper case letters
+  Ex: PI=3.141, MAX_AGE=23; 
+4. keywords/packages: Every keyword or package names must be in lower case letters only.
+ex: mypack, java.lang, int, for
+
+--------------------------------------------
+Coding
+-------
+1. Code braces
+----------------
+Brace statement should be immediate to the code. (in same line)
+
+Ex:  
+ void display(){
+ ----
+ }
+
+class names: always recamended to provide highest group names and only one exists.
+Ex: Employee, Bank, Fruit, Mef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
