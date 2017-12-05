@@ -19,10 +19,7 @@ public class Use {
 	t.f1();  //-> if f1  available in java? -> Java 
 	
 	t.doTeach(); // -> java 
-	t.closeClass();
 	
-	t=new DotNet();
-	t.doTeach();
 	
 	
 	
