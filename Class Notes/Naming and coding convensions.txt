@@ -29,6 +29,12 @@ class names: always recamended to provide highest group names and only one exist
 Ex: Employee, Bank, Fruit, Mef
 
 
+com.mef.eco.beans -> all classes in this package
+
+http://www.eco.mef.com/beans  -> Reverse Engineering technique
+
+
+
 
 
 
