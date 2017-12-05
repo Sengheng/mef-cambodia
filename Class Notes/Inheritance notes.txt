@@ -1,0 +1,9 @@
+Notes
+--------
+1. Do not crete object to a super  class directly.
+2. A super class reference can store all its sub class objects.
+3. The reference of a super class object can access all the data in the super class, and 
+   only overridden methods (method which is available in super and sub class) of the sub    class.
+4. The refence of the super class can not be used to access the invividual (method which is avaiable in sub class and not available in super class) methods of a sub class
+
+
