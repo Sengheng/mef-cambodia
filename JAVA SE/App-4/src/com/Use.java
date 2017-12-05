@@ -7,7 +7,7 @@ public class Use {
 		ContractEmployee ce=new ContractEmployee();
 		RegularEmployee re=new RegularEmployee();
 		
-		ce.setSalary(438738463);
+		//ce.setSalary(438738463);
 		
 		/*ce.empId=10;
 		ce.empName="Praveen";
@@ -20,6 +20,7 @@ public class Use {
 		
 		ce.setEmpId(10);
 		ce.setEmpName("Bucky Wall");
+		ce.noOfDaysWorked=5;
 		re.setEmpId(11);
 		re.setEmpName("Richards");
 		re.noOfDaysWorked=31;
