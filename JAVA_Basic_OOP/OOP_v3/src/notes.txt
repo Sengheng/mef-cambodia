@@ -25,9 +25,17 @@
       --> To hold Obj's reference ( address )
       
    ---------------------------------------------------
+
+1 charactwer -> 1 bit
+8 bits - 1 byte
+1024 bytes   - 1 kilo byte
+1024 kb - 1 mega byte
+1024 mb - 1 giga byte
+1024 gb - 1 tera byte
    
    
-   
+
+
    1. Primary/primitive  variables
    ================================
    
@@ -35,10 +43,10 @@
       
       		i. integral
       		
-      			byte  ( 8 )
-      			short ( 16 )
-      			int   ( 32 )
-      			long  ( 64 )
+      			byte  ( 8 )  -> 1  byte
+      			short ( 16 ) -> 2 bytes
+      			int   ( 32 ) -> 4 bytes
+      			long  ( 64 ) -> 8 bytes
       		
       	        ii. real
       	   

@@ -1,0 +1,13 @@
+System.out.println()
+-------------------
+
+-> System is a class which belongs to java.lang package
+-> This System class contains another class static object 'out' which belongs to a class 
+   PrintStream.
+-> PrintStream class  belongs to java.io package
+-> Combination of System.out will get a anyonumous object of PrintStream class. 
+-> On top of PrintStream class, you can invoke all methods.println() is one of method of
+   PrintStream class
+
+
+
