@@ -3,6 +3,7 @@ Interfaces
 -> An interface is a method specification.
 -> An interface contains zero or more abstract methods only
 -> Interface will not allow concreate methods, constructors
+-> We cannot create an abject to interface
 -> By default, every method in an interface is 'public' and  'abstract'
 -> By default, every property/variable in interface is 'public' , 'static' and 'final'
 -> If any sub class implements an ingterface, then that sub class must overrride/implement
