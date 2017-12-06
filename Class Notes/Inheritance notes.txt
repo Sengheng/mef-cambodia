@@ -7,3 +7,9 @@ Notes
 4. The refence of the super class can not be used to access the invividual (method which is avaiable in sub class and not available in super class) methods of a sub class
 
 
+Abstract class does not support 100% abstraction
+No extensibility
+
+
+
+
