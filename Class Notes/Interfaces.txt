@@ -23,6 +23,8 @@ Notes
 -> A class can implement more than one interface 
 -> A class can extends only one class
 -> A class can not extends more than one class
+-> A class can not implement another class
+-> An interface cannot extends another class
 -> An interface can extends more than one interface
 
 
