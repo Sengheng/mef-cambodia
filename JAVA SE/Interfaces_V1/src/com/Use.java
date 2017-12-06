@@ -12,6 +12,11 @@ public class Use {
 		Dept d=new B();
 		d.addDepartment();
 		
+		Payroll p1=new C();
+		p1.paySalary();
+		
+		
+		
 
 	}
 

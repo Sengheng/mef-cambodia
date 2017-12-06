@@ -1,6 +1,6 @@
 package com;
 
-public class B implements A,Payroll,Dept {
+public class B  implements A,Payroll,Dept {
 	@Override
 	public void f1() {
 		System.out.println("--- f1 method of B class");
