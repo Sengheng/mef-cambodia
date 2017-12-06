@@ -1,0 +1,66 @@
+class  A{
+abstract void f2();
+}
+
+class B extends A{
+
+  @Override
+  void f2() {}
+}
+
+after a month a new class is added, and integrate it to B class is bussiness requirement.
+
+interfacePayRoll{
+  void f3(){-------};
+}
+
+Issue: Abstract classes design never support feature called extensibility. No 100% no abstraction.
+
+Class relationships
+----------------------
+	-> is 'A'
+	-> has 'A'
+
+is 'A' relation
+----------------
+
+class A{
+}
+class B extends A{
+}
+
+has 'A' relationship
+----------------------
+
+class A{
+}
+
+class B{
+
+A a=new A(); // forward declaration
+
+}
+
+
+
+
+
+Best Solution:
+---------------
+-> use interfaces ->  Multiple Inheritance
+
+-> Supports 100% abstraction
+-> Supports extensibility
+
+
+
+
+
+
+
+
+
+
+
+
+
