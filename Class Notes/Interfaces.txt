@@ -26,6 +26,9 @@ Notes
 -> A class can not implement another class
 -> An interface cannot extends another class
 -> An interface can extends more than one interface
+-> An interface can not implements another interface
+-> An interface which contains no abstract methods/ blank interface is called 
+   'marked' or 'taged' interface. Also known as marker interfaces
 
 
 
