@@ -1,0 +1,31 @@
+Interfaces
+---------------
+-> An interface is a method specification.
+-> An interface contains zero or more abstract methods only
+-> Interface will not allow concreate methods, constructors
+-> By default, every method in an interface is 'public' and  'abstract'
+-> By default, every property/variable in interface is 'public' , 'static' and 'final'
+-> If any sub class implements an ingterface, then that sub class must overrride/implement
+   all the abstract methods of an interface
+-> If any abstract method is not implemented in the sub class, then that sub class  must
+   be defined as 'abstract'
+-> We cannot create an onbject to an interface. But we can create a reference obj to 
+   interface
+-> The reference of the interface can be used to access all the data in the interface, and 
+   overriden methods of the sub classes
+-> The reference of an interface can not be used to access the individual methods of an 
+   interface.
+-> We should use 'implements' keyword to implement a interface
+
+Notes
+-----
+-> A class can implement more than one interface 
+-> A class can extends only one class
+-> A class can not extends more than one class
+-> An interface can extends more than one interface
+
+
+
+
+
+
