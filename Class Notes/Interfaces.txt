@@ -15,7 +15,7 @@ Interfaces
 -> The reference of the interface can be used to access all the data in the interface, and 
    overriden methods of the sub classes
 -> The reference of an interface can not be used to access the individual methods of an 
-   interface.
+   sub class.
 -> We should use 'implements' keyword to implement a interface
 
 Notes
