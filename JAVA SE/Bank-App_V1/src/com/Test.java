@@ -9,6 +9,7 @@ import com.bank.service.ManagerService;
 import com.bank.service.ManagerServiceImpl;
 
 public class Test {
+	static CustomerService custService=new CustomerServiceImpl();
 
 	public static void main(String[] args) {
 		
@@ -29,7 +30,7 @@ public class Test {
 			
 			switch(ch) {
 			case 1:
-				CustomerService custService=new CustomerServiceImpl();
+				
 				System.out.println("Enter Amount to WithDraw: ");
 				int amt=sc.nextInt();
 				custService.withDraw(amt);
