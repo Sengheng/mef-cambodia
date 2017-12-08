@@ -47,7 +47,7 @@ public class Reservation {
 
 	public static void main(String[] args) {
 
-		Operator op = new Operator(1);
+		Operator op = new Operator(3);
 
 		Thread p1 = new Thread(op);
 		Thread p2 = new Thread(op);
